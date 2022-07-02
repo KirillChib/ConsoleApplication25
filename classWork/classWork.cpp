@@ -11,8 +11,8 @@ struct Product
 
 class Company
 {
-public:
-	virtual Product* Creat() = 0
+  public:
+	virtual Product* Creat() = 0;
 };
 class Ps :public Product
 {
@@ -35,5 +35,5 @@ public:
 };
 int main()
 {
-	
+	Product* prod =;ghj,f,f,f,
 }
